@@ -23,7 +23,6 @@ Users should be able to:
 
 ![](./screenshots/Desktop%20screenshot.png)
 ![](./screenshots/Mobile%20screenshot.png)
-
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/faq-accordion-card-_EEuzi2SK4)
